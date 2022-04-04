@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+
 <!--
+Jestem absolwentem Politechniki Gdańskiej, kierunku Elektrotechnika. Obecnie jestem studentem trzeciego roku Informatyki w Wyższej Szkole Bankowej w Gdańsku.
+
 **MG814/MG814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
